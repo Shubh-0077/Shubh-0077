@@ -2,7 +2,7 @@
 🔭 I’m currently working on Python & SQL projects<br>👯 I’m looking to collaborate on data analysis & beginner ML projects<br>🤝 I’m looking for help with improving my real world project design<br>🌱 I’m currently learning ML fundamentals<br>💬 Ask me about data analysis & my tech journey<br>⚡ Fun fact : I am transitioning from commerce student -> data science
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shubham___malkar?igsh=aGF4Ym9zcHVqbDg3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/shubhammalkar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://reddit.com/user/Inevitable_Arm_2271) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/shubhhh_077) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhammalkar1614@gmail.com) 
 
 # 💻 Tech Stack:
