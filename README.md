@@ -6,7 +6,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on ML projects<br>👯 I’m looking to collaborate on Data Analysis & beginner ML Projects<br>🤝 I’m looking for help with improving my real world Project Design<br>🌱 I’m currently learning ML Fundamentals<br>💬 Ask me about Data Analysis & my Tech Journey<br>⚡ Fun fact : I am transitioning from Commerce student -> Data Science
+🔭 I’m currently working on ML projects<br>👯 I’m looking to collaborate on Data Analysis & beginner ML Projects<br>🤝 I’m looking for help with improving my real world Project Design<br>🌱 I’m currently learning ML Fundamentals<br>💬 Ask me about Data  & my Tech Journey<br>⚡ Fun fact : I am transitioning from Commerce student -> Data Science
 
 
 ## 🌐 Socials:
